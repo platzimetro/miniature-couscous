@@ -1,2 +1,2 @@
 # miniature-couscous
-Respuestas de Platzi
+Respuestas de los cursos de Platzi
